@@ -1,6 +1,10 @@
 <div align="center">
   <!-- Improved typing animation with better speed control -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=800&color=64FFDA&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+JEEVA+V;Node.js+Backend+Specialist;Full-Stack+Developer+in+Progress" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+JEEVA+V;Node.js+Backend+Specialist;Full-Stack+Developer+in+Progress" alt="Typing animation" />
+
+
+
+
 
   <!-- Enhanced intro with clearer value proposition -->
   <p style="font-size: 1.1rem; max-width: 800px; margin: 20px auto;">
