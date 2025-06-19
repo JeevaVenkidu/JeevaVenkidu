@@ -127,16 +127,6 @@
     >
   </a>
 </div>
-    <!-- Streak Stats -->
-    <div style="flex: 1; min-width: 300px;">
-      <a href="https://github.com/JeevaVenkidu">
-        <img src="https://streak-stats.demolab.com/?user=JeevaVenkidu&theme=dark&background=0D1117&border=30363D&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" 
-             alt="GitHub Streak" 
-             style="width: 100%; border-radius: 10px;">
-      </a>
-    </div>
-  </div>
-</div>
 
 ## 🌟 Core Strengths
 
